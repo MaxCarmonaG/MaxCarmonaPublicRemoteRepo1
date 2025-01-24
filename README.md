@@ -7,3 +7,5 @@ My name is Max Carmona and I have been working as a Front-end web developer for 
 <br>
 
 Gabriel Fiorotti - I'm happy to contribute in Max's repo during Lab 1 of the Full Stack Deployment course.
+
+Local change made by Max Carmona."
